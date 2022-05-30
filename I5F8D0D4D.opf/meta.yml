@@ -1,0 +1,26 @@
+id: I5F8D0D4D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:53:51.024431'
+last_modified: '2022-05-30T20:53:51.024442'
+parser: null
+source_metadata:
+  title: Gompa Tsultrim Nyingpo Series
+  language: en
+  description: 'Texts by and about Gompa Tsultrim Nyingpo (sgom pa tshul khrims snying
+    po, 1116–1169), the eldest nephew of Gampopa:'
+  volume:
+    f6320:
+      title: A Brief Commentary on the Twelve Stanzas (Including the Divisions of
+        the Stages of the Path for Individuals of the Three Capacities)
+      base_file: f6320.txt
+      order: 1
+      parent: Lamrim
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
